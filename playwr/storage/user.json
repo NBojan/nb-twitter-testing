@@ -1,0 +1,15 @@
+{
+  "cookies": [
+    {
+      "name": "jwtTwitter",
+      "value": "eyJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6Im15dGVzdGluZ0B0ZXN0aW5nLmNvbSIsImV4cCI6MTcyNTI5ODc5Mn0.D_hZnCPxuVPa73cuMSrZupqmG6hgCw3slxj3mKPf5no",
+      "domain": "nb-twitter.vercel.app",
+      "path": "/",
+      "expires": 1725298792.286079,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
